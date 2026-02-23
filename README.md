@@ -1,8 +1,8 @@
-# Banking Analytics Dashboard
+# Banking Transaction Intelligence & Customer Analytics
 
 ## 📌 Project Overview
 
-The **Banking Analytics Dashboard** is a business intelligence and data analytics project developed to simulate real-world banking analysis scenarios using Microsoft SQL Server and Power BI.
+The **Banking Transaction Intelligence & Customer Analytics** is a business intelligence and data analytics project developed to simulate real-world banking analysis scenarios using Microsoft SQL Server and Power BI.
 
 The objective of this project is to explore and analyze customer data, account information, and transaction records in order to extract meaningful insights that support data-driven decision-making. The dashboard demonstrates how structured data can be transformed into actionable intelligence through data modeling, SQL querying, and interactive visualizations.
 
